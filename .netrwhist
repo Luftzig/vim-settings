@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/yoavluft/Projects/spatial-index'
+let g:netrw_dirhist_2='/Users/yoavluft/Projects/spatial-index/src'
+let g:netrw_dirhist_3='/Users/yoavluft/Projects/spatial-index/src/SpatialIndex'
+let g:netrw_dirhist_4='/Users/yoavluft/Projects/spatial-index'
